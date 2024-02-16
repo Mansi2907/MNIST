@@ -1,0 +1,12 @@
+https://dillhoffaj.utasites.cloud/teaching/courses/cse6363/
+https://github.com/ajdillhoff/CSE6363/tree/main/neural_networks
+https://github.com/Rutuja177/Machine-Learning
+https://docs.python.org/3/library/abc.html
+https://numpy.org/doc/stable/reference/generated/numpy.tanh.html
+https://colab.research.google.com/github/farhadkamangar/CSE5368/blob/master/tensorflow_muti_layer_training_example.ipynb#scrollTo=RIZALkdnvNYi
+https://www.geeksforgeeks.org/applying-convolutional-neural-network-on-mnist-dataset/
+https://h1ros.github.io/posts/loading-scikit-learns-mnist-dataset/
+https://www.freecodecamp.org/news/building-a-3-layer-neural-network-from-scratch-99239c4af5d3/#:~:text=How%20to%20build%20a%20three-layer%20neural%20network%20from,...%205%20Step%205%3A%20the%20training%20phase%20
+https://towardsdatascience.com/step-by-step-guide-to-building-your-own-neural-network-from-scratch-df64b1c5ab6e
+https://github.com/saisuryasashanklenka/Handwritten-Digit-Classification-Using-MNIST-Dataset
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
